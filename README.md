@@ -5,7 +5,7 @@
 
 ## **Steps to run:**
 
-![image](https://i.gifer.com/4gcd.gif)
+![image](https://64.media.tumblr.com/ba0ca805e1861b6bd4ec2f9df95318cc/tumblr_mfnf596F6F1r0sm19o1_250.gif)
 
 
 1. Install Node.js v14 (https://nodejs.org/en/)
