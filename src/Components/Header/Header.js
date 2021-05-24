@@ -5,7 +5,7 @@ function Header(props) {
 return (
       <Row className="border border-secondary rounded py-3">
         <Col className="align-self-center text-center page-heading" lg={6} md={12} xs={12}>
-          <h2 className="my-0 page-title">Ron Swanson Quote Voter</h2>
+          <h2 className="my-0 page-title" data-testid="heading">Ron Swanson Quote Voter</h2>
         </Col>
         <Col className="align-self-center pr-0" lg={4} md={6} xs={8}>
           <span><em>"Vote for your favorite quote!"</em></span>
