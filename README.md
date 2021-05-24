@@ -1,4 +1,6 @@
-RON SWANSON QUOTES
+# **RON SWANSON QUOTES**
+
+![image](https://gogocosplay.com/wp-content/uploads/2018/12/ron-swanson.jpg)
 
 
 Steps to run:
@@ -10,9 +12,10 @@ Steps to run:
 6. Open ```localhost:3000``` in your browser or use localip:3000 run on a mobile device where local ip is the ip for the machine where you're running the app
 
 
-
-
 Screenshots:
+
+![image](https://i.pinimg.com/originals/47/4b/b5/474bb51f05a33360d70f18cbde9fd18c.gif)
+
 
 Desktop (light mode)
 
@@ -30,3 +33,6 @@ Tablet
 Mobile
 
 ![image](https://user-images.githubusercontent.com/14898578/119355040-6317ee00-bc6a-11eb-9c81-9a498a8d9d71.png)
+
+
+![image](https://media1.tenor.com/images/65c85fa313ccd694c8116046df65cd4c/tenor.gif?itemid=5020199)
