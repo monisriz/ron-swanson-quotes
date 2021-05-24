@@ -4,6 +4,10 @@
 
 
 ## **Steps to run:**
+
+![image](https://i.gifer.com/4gcd.gif)
+
+
 1. Install Node.js v14 (https://nodejs.org/en/)
 2```git clone https://github.com/monisriz/ron-swanson-quotes.git```
 3. ```cd ron-swanson-quotes```
